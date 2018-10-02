@@ -1,3 +1,2 @@
-# Week03_jx-h
-
-Still working on it. Finished the first three parts of challenge question 02.
+Oct 2nd:
+Finished Python part.
